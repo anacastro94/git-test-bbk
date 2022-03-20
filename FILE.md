@@ -8,3 +8,4 @@ Commit 9 Some more code (node 10)
 Commit 10 git checkout master<br> (node 10 correction)
 Commit 11 git merge master
 Commit 12 git merge bug-fix<br>
+Commit 13 some more code (node 1)
